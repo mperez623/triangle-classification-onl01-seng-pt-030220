@@ -9,7 +9,9 @@ def initialize (side1, side2, side3)
   @s3 = side3
 end
 
-
+def kind
+  if (@s1 +@s2) <= @s3 || 
+end
 
 
 
